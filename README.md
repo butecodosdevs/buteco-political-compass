@@ -1,6 +1,4 @@
 # Buteco Political Compass
-Plotly Image HTML:
-![image](https://github.com/deablofk/buteco-political-compass/blob/main/output.png?raw=true)
 
 # Usage
 ```bash
@@ -9,5 +7,5 @@ cd buteco-political-compass
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
-python3 plot.py
+python3 src/main.py
 ```
