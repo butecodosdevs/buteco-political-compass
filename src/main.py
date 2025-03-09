@@ -101,6 +101,6 @@ def create_figure(points):
     return fig
 
 if __name__ == "__main__":
-    points = load_points('points.csv')
+    points = load_points('src/points.csv')
     fig = create_figure(points)
     fig.show()
