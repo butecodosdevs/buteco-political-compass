@@ -2,7 +2,7 @@
 
 # Usage
 ```bash
-git clone https://github.com/deablofk/buteco-political-compass.git
+git clone https://github.com/butecodosdevs/buteco-political-compass.git
 cd buteco-political-compass
 python3 -m venv env
 source env/bin/activate
