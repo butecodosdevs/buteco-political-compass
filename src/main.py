@@ -90,8 +90,8 @@ def create_figure(points):
     add_axis_labels(fig)
 
     fig.update_layout(
-        xaxis=dict(range=[-10, 10], tickmode='linear', tick0=-10, dtick=0.5),
-        yaxis=dict(range=[-10, 10], tickmode='linear', tick0=-10, dtick=0.5),
+        xaxis=dict(range=[-11, 11], tickmode='linear', tick0=-10, dtick=0.5),
+        yaxis=dict(range=[-11, 11], tickmode='linear', tick0=-10, dtick=0.5),
         plot_bgcolor='white',
         title="Buteco Political Compass",
         title_x=0.5,
